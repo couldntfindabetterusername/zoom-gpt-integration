@@ -14,10 +14,10 @@
     "scripts": {
         "start": "node index.cjs"
     },
-    "name": "sgpt",
+    "name": "zoom-gpt-bot",
     "type": "module",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "index.cjs",
     "author": "",
     "license": "ISC",
     "description": ""
