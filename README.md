@@ -1,15 +1,23 @@
 
-# ZoomGPT
+# ZoomGPT Bot
 
-A bot built using using Node.js which enters Zooms when provided with a meeting link. 
+This is a Node.js GPT bot which will answer your queries. 
 
 
 
 ## Features
 
-- Implemented speech-to-text which converts voice input from the Zoom meeting into text.
-- Implement text-to-speech which converts the GPT response into speech which is passed through Zoom.
-- Deployed on Vercel
+- Takes the input in speech format from the user and converts it into text format.
+- Computes the GPT response for the text provided by the user.
+- Converts the text response into speech response.
+
+## How to use
+
+- Provide the valid zoom meeting link.
+- Speak slowly and clearly in english.
+- Do not interrupt GPT while it is giving any response
+
+  You are good to go.
 
 
 
